@@ -25,6 +25,7 @@ import numpy as np
 x = np.array([[1,2,3],[3,6,9]])
 y = np.linalg.matrix_rank(x)
 print(y)
+<img width="1407" height="300" alt="image" src="https://github.com/user-attachments/assets/603a1cac-f178-482b-9c34-f7b409bdffe9" />
 
 ## Result:
 Thus the rank for the given matrix is successfully solved by  using a python program.
